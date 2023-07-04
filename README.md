@@ -1,5 +1,11 @@
 # Jogos Simples em Python
 
+  Seguindo a proposta de estudo do curso de Python Avançado do IFMG, a reconstrução de jogos desenvolvidos em linguagem de programação Python, com o objetivo de construir e integrar interfaces gráficas em códigos Python.
+  
+  Utilizou-se a IDE:  Pycharm 2021.2 Community Edition - version 11.0.11
+
+![(+ sobre Curso)](https://mais.ifmg.edu.br/maisifmg/enrol/index.php?id=126)
+
 ### JogoDaVelha
 Demonstração de um jogo da velha feito em linguagem Python.
 
